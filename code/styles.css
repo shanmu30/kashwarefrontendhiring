@@ -1,0 +1,202 @@
+body
+{
+top: 0px;
+left: 0px;
+
+width: 2300px;
+height: 1080px;
+
+background:transparent linear-gradient(350deg, #0E0E0E 0%, #1E1E1E 49%, #0E0E0E 100%) 0% 0% no-repeat padding-box;
+opacity: 1;
+
+}
+body.b1
+{
+	top: 0px;
+left: 0px;
+width: 1920px;
+height: 1080px;
+background: transparent linear-gradient(175deg, #0E0E0E 0%, #1E1E1E 53%, #101012 100%) 0% 0% no-repeat padding-box;
+opacity: 1
+}
+
+div.fix
+{position: absolute;
+top: -161.99998474121094px;
+left: -88px;
+width: 1488px;
+height: 1506px;
+background: transparent url('C:\xampp\htdocs\kashware\Images\first\5.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+div.fixl{
+	position: absolute;
+	top: -213px;
+left: 216px;
+
+width: 1488px;
+height: 1506px;
+opacity: 1;
+}
+div.fix1
+{
+	position: absolute;
+top: -161.99998474121094px;
+left: -88px;
+width: 1488px;
+height: 1506px;
+background: transparent url('C:\xampp\htdocs\kashware\Images\first\5.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+div.fixl1{
+	position: absolute;
+	top: -213px;
+left: 416px;
+
+width: 1288px;
+height: 1506px;
+opacity: 1;
+}
+div.fixed {
+  position: fixed;
+
+  top: 14px;
+left: 180px;
+
+width: 71px;
+height: 78px;
+background: transparent url('C:\xampp\htdocs\kashware\Images\first\2.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+div.first{
+	 position: fixed;
+	top: 32px;
+left: 620px;
+width: 64px;
+height: 36px;
+text-align: left;
+font: normal normal medium 30px/36px SF Pro Text;
+letter-spacing: 0px;
+color: #F8F6F1;
+opacity: 1;
+}
+div.sec{
+	 position: fixed;
+	top: 32px;
+left: 720px;
+width: 121px;
+height: 36px;
+text-align: left;
+font: normal normal medium 30px/36px SF Pro Text;
+letter-spacing: 0px;
+color: #F8F6F1;
+opacity: 1;
+}
+div.third{
+	 position: fixed;
+top: 32px;
+left: 820px;
+width: 117px;
+height: 36px;
+text-align: left;
+font: normal normal medium 30px/36px SF Pro Text;
+letter-spacing: 0px;
+color: #F8F6F1;
+opacity: 1;
+}
+div.four
+{
+	 position: fixed;
+top: 32px;
+left: 920px;
+width: 116px;
+height: 36px;
+text-align: left;
+font: normal normal medium 30px/36px SF Pro Text;
+letter-spacing: 0px;
+color: #F8F6F1;
+opacity: 1;
+}
+div.but
+{position: fixed;
+top: 26px;
+left: 1020px;
+width: 153px;
+height: 49px;
+background: transparent url('C:\xampp\htdocs\kashware\Images\first\3.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+div.text1
+{position: relative;
+	top: 300px;
+left: 50px;
+width: 1518px;
+height: 214px;
+text-align: center;
+font: normal normal bold 96px/100px SF Pro Display;
+letter-spacing: 0px;
+color: #E5DFD8;
+opacity: 1;
+}
+div.text2
+{position: relative;
+top: 809px;
+left: 432px;
+width: 857px;
+height: 38px;
+text-align: left;
+font: normal normal 600 32px/36px SF Pro Display;
+letter-spacing: 0px;
+color: #AAA6A1;
+opacity: 1;
+}
+div.but2
+{
+	position: relative;
+	top: 900px;
+left: 780px;
+width: 57px;
+height: 62px;
+background: transparent url('C:\xampp\htdocs\kashware\Images\first\4.pn') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+div.sectext1
+{
+	position: relative;
+	top: 444px;
+left: 368px;
+width: 1184px;
+height: 193px;
+text-align: center;
+font: normal normal bold 86px/90px SF Pro Display;
+letter-spacing: 0px;
+color: #E5DFD8;
+opacity: 0.9;
+}
+div.sectext2
+{
+	position: relative;
+	top: 799px;
+left: 585px;
+width: 750px;
+height: 34px;
+text-align: left;
+font: normal normal 600 28px/31px SF Pro Display;
+letter-spacing: 0px;
+color: #AAA6A1;
+opacity: 0.9;
+}
+header {
+	{position: fixed;
+top: 0px;
+left: 0px;
+width: 14080px;
+height:  100px;
+background: #191919 0% 0% no-repeat padding-box;
+box-shadow: 0px 3px 6px #BEBEBE1A;
+opacity: 1;
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+}
+
+
